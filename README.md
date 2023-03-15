@@ -18,6 +18,6 @@
 ✔️ About me\
 ✔️ Projects \
 ✔️ Resume\
-✔️ Contact Info\
+✔️ Contact Info
 
 
