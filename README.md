@@ -19,7 +19,7 @@
 ✔️ Projects \
 ✔️ Resume\
 ✔️ Contact Info
-
+To view a live example, **[click here](http://127.0.0.1:5502/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
