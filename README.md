@@ -17,7 +17,7 @@
 ✔️ Home\
 ✔️ About me\
 ✔️ Projects \
-✔️ Resume
+✔️ Resume\
 ✔️ Contact Info\
 
 
