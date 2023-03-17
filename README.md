@@ -1,5 +1,5 @@
 # portfolio⚡️
-> A clean, responsive portfolio template for Software Developers!
+> A clean, responsive portfolio template for Software Developers!\
  https://shirish2001.github.io/portfolio/
 ## Features 📋
 ⚡️ Fully Responsive\
