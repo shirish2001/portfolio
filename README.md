@@ -1,6 +1,15 @@
 # portfolio⚡️
 > A clean, responsive portfolio template for Software Developers!\
  https://shirish2001.github.io/portfolio/
+ 
+ ### Website Preview
+<p align="center"> 
+  <kbd>
+    <a href="https://shirish2001.github.io/portfolio/" target="_blank"><img src="examples/preview.gif">
+  </a>
+  </kbd>
+</p>
+
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML & CSS\
