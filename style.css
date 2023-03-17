@@ -235,18 +235,21 @@ nav ul li a.active, nav ul li a:hover {
 }
 .work1:hover .layer {
 	height: 100%;
+	width: 100%
 }
 .work2:hover img {
 	transform: scale(1.1);
 }
 .work2:hover .layer {
 	height: 100%;
+	width: 100%;
 }
 .work3:hover img {
 	transform: scale(1.1);
 }
 .work3:hover .layer {
 	height: 100%;
+	width: 100%;
 }
 .work-lists {
 	display: grid;
@@ -351,7 +354,7 @@ nav ul li a.active, nav ul li a:hover {
 	width: 100%;
 }
 form input, form textarea {
-	width: 70%;
+	width: 100%;
 	border: 0;
 	outline: none;
 	background: #262626;
@@ -366,6 +369,11 @@ form .btn2 {
 	font-size: 18px;
 	margin-top: 10px;
 	cursor: pointer;
+}
+.form-g{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
 }
 .copyright {
 	width: 100%;
@@ -542,6 +550,7 @@ nav ul .fas {
    height: 60px;
    width: 100%;
   }
+
   nav .fas {
    display: block;
    font-size: 24px;
